@@ -1,0 +1,15 @@
+[submodule "touch-backend"]
+    path = touch-backend
+    url = https://github.com/Comeback-2-0/Touch-Backend.git
+
+[submodule "touch-mobile"]
+    path = touch-mobile
+    url = https://github.com/Comeback-2-0/Touch-Comeback.git
+
+[submodule "touch-web"]
+    path = touch-web
+    url = https://github.com/ij-roy/touch-web.git
+
+[submodule "touch-website"]
+    path = touch-website
+    url = https://github.com/ij-roy/touch.git
